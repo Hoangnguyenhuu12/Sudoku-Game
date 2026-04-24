@@ -2,7 +2,7 @@
 
 A clean, minimal Sudoku web app — no frameworks, no dependencies, just HTML, CSS, and vanilla JavaScript.
 
-🔗 **Live demo:** `https://Hoangnguyenhuu12.github.io/Sudoku-Game`
+🔗 **Live demo:** [Sudoku-Game](https://Hoangnguyenhuu12.github.io/Sudoku-Game)
 
 ---
 
