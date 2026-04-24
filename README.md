@@ -42,7 +42,7 @@ sudoku/
 
 ```bash
 git clone https://github.com/Hoangnguyenhuu12/Sudoku-Game.git
-cd sudoku
+cd Sudoku-Game
 # Open index.html in your browser — no server needed
 open index.html
 ```
